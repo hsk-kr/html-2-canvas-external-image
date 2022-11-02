@@ -4,6 +4,6 @@
 
 [Blog](https://dev.to/lico/react-download-html-element-as-an-image-file-53ok)
 
-It doens't cover all the cases. you should take image sizes, styles and background images, etc.
+It doens't cover all the cases. you should take yourself like image sizes, styles and background images, etc.
 
 It's just a simeple example.
